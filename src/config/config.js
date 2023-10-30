@@ -22,11 +22,11 @@ module.exports = {
     port: 587,
     secure: false, // true for 465, false for other ports
     auth: {
-      user: 'collectionscanner360@gmail.com',
-      pass: 'collection_360',
+      user: 'mariyammanzoor789@gmail.com',
+      pass: 'mariyam..manzoor',
     },
     from: {
-      email: 'collectionscanner360@gmail.com',
+      email: 'mariyammanzoor789@gmail.com',
       name: 'collection-valuation',
     },
   },

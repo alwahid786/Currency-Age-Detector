@@ -207,6 +207,7 @@ module.exports.login = async (
   res
 ) => {
   try {
+    console.log(email);
     if (loginType == 'manual') {
       if (!phone && !email)
         return handleError({
